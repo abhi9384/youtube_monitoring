@@ -83,7 +83,7 @@ def get_browser_history():
         print('Transcript: ', yt_video_transcript)
         print('Video Summary: ', yt_video_summary)
 
-    #TODO: add send mail functionality
+    #TODO: add send mail functionality else build front end app to see summary
 
 if __name__ == "__main__":
     get_browser_history()
