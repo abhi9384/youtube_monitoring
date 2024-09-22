@@ -83,7 +83,7 @@ def get_browser_history():
         print('Transcript: ', yt_video_transcript)
         print('Video Summary: ', yt_video_summary)
 
-    #TODO: https://github.com/langchain-ai/langchain/blob/master/libs/community/tests/unit_tests/tools/gmail/test_send.py
+    #TODO: add send mail functionality
 
 if __name__ == "__main__":
     get_browser_history()
