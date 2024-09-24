@@ -1,4 +1,4 @@
-# YouTube Video Monitoring Tool to check for videos seen on your laptop by using browser history
+# YouTube Video Monitoring Tool to check for videos seen on your laptop by using browser history esp. by kids in parents absence
 
 ## Overview
 
