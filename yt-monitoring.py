@@ -204,7 +204,7 @@ def app():
                             try:
                                 yt_video_url = row[0] 
                                 yt_video_title = row[1]
-                                yt_video_watched_at =  row[2]
+                                yt_video_watched_at = row[2]
                                 yt_video_transcript = get_video_transcript(yt_video_url)
                                 if len(yt_video_transcript) > 0: 
                                     yt_video_summary = summarize_transcript(yt_video_transcript)
